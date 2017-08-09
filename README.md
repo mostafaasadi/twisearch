@@ -1,6 +1,6 @@
 # twisearch
-search and log tweets with a keyword from twitter stream
-
+## search and log tweets with a keyword from twitter stream
+![twisearch](https://raw.githubusercontent.com/mostafaasadi/twisearch/master/screenshot.png)
 # Install
 - `pip3 install tweepy`
 - `git clone https://github.com/mostafaasadi/twisearch`
