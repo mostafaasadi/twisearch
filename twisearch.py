@@ -13,7 +13,7 @@ api = tweepy.API(auth, wait_on_rate_limit=True)
 # keyword you want to search
 hashtag = 'covfefe'
 # lof file prefix
-log_prefix = 'tp_log'
+log_prefix = 'twisearch_log'
 # filter with languages etc en,fa,...
 lang = 'en'
 
